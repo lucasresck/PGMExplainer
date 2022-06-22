@@ -1,0 +1,53 @@
+name: PGMExplainer
+channels:
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1
+  - _openmp_mutex=5.1
+  - ca-certificates=2022.4.26
+  - certifi=2022.5.18.1
+  - ld_impl_linux-64=2.38
+  - libffi=3.3
+  - libgcc-ng=11.2.0
+  - libgomp=11.2.0
+  - libstdcxx-ng=11.2.0
+  - ncurses=6.3
+  - openssl=1.1.1o
+  - pip=21.2.2
+  - python=3.7.13
+  - readline=8.1.2
+  - setuptools=61.2.0
+  - sqlite=3.38.3
+  - tk=8.6.12
+  - wheel=0.37.1
+  - xz=5.2.5
+  - zlib=1.2.12
+  - pip:
+    - cycler==0.11.0
+    - decorator==5.1.1
+    - dgl==0.4.2
+    - joblib==1.1.0
+    - kiwisolver==1.4.3
+    - matplotlib==3.3.2
+    - networkx==2.5
+    - numpy==1.19.2
+    - packaging==21.3
+    - pandas==1.1.2
+    - patsy==0.5.2
+    - pgmpy==0.1.11
+    - pillow==9.1.1
+    - protobuf==4.21.1
+    - pyparsing==3.0.9
+    - python-dateutil==2.8.2
+    - pytz==2022.1
+    - scikit-learn==1.0.2
+    - scipy==1.5.2
+    - six==1.16.0
+    - sklearn==0.0
+    - statsmodels==0.13.2
+    - tensorboardx==2.1
+    - threadpoolctl==3.1.0
+    - torch==1.11.0
+    - tqdm==4.64.0
+    - typing-extensions==4.2.0
+prefix: /home/lucasresck/anaconda3/envs/PGMExplainer
